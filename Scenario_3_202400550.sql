@@ -1,5 +1,6 @@
 -- ============================================================
 -- ICT371 Activity 4 - Scenario 3: Hostel Room Allocation
+-- Student Name: Evans Saikolo
 -- Student Number: 202400550
 -- ============================================================
 
